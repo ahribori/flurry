@@ -31,7 +31,8 @@ dependencies:
   provider: ^4.3.2
   http: ^0.12.2
   json_annotation: ^3.0.1
-
+  curved_navigation_bar: ^0.3.3
+  supercharged: ^1.10.0
 
 dev_dependencies:
   flutter_test:
